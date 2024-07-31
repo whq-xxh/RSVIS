@@ -1,4 +1,4 @@
-# Video-instrument synergistic network for referring video instrument segmentation in robotic surgery
+# Video-Instrument Synergistic Network for Referring Video Instrument Segmentation in Robotic Surgery
 
 We are excited to announce that our paper was accepted for publication at **IEEE TMI 2024**! 🥳🥳🥳
 
