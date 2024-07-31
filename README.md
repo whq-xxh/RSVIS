@@ -10,7 +10,7 @@ You can access the paper [here](https://ieeexplore.ieee.org/abstract/document/10
 This project introduces a new setting in surgical image segmentation, termed **Referring Surgical Video Instrument Segmentation (RSVIS)**. RSVIS aims to automatically identify and segment the target surgical instruments from each video frame, referred by a given language expression, in a more natural and flexible way
 of human-computer interaction.
 
-Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our referring surgical video instrument segmentation.
+Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our referring surgical video instrument segmentation (RSVIS).
 
 <img width="623" alt="1722049397169" src="https://github.com/user-attachments/assets/56ac8436-280e-4416-a46c-884d1d774669">
 
