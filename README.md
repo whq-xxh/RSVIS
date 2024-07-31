@@ -16,7 +16,7 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 
 # How to Run the Code 🛠
 ## Environment Installation
-Thanks for your interest, code and data are being organized and will be online soon!
+Thanks for your interest, code is being organized and will be online soon!
 
 # Dataset 📊
 Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/11In7HqelWbsJPvIpGljSEOIUpzSHnPwo) [BaiduPan](https://pan.baidu.com/s/1t3FQFfa5minkaUIuOs3i3Q)). We will get back to you within three days, so please don't send them multiple times. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
