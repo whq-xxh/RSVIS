@@ -11,6 +11,7 @@ This project introduces a new setting in surgical image segmentation, termed **R
 of human-computer interaction.
 
 Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our referring surgical video instrument segmentation.
+
 <img width="623" alt="1722049397169" src="https://github.com/user-attachments/assets/56ac8436-280e-4416-a46c-884d1d774669">
 
 # How to Run the Code 🛠
