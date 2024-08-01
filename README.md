@@ -21,7 +21,7 @@ Thanks for your interest, code is being organized and will be online soon!
 # Dataset 📊
 The datasets have been organized!
 
-Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/11In7HqelWbsJPvIpGljSEOIUpzSHnPwo) [BaiduPan](https://pan.baidu.com/s/1t3FQFfa5minkaUIuOs3i3Q)). We will get back to you within three days, so please don't send them multiple times. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your Google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/11In7HqelWbsJPvIpGljSEOIUpzSHnPwo) [BaiduPan](https://pan.baidu.com/s/1t3FQFfa5minkaUIuOs3i3Q)). We will get back to you within three days, so please don't send them multiple times. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
     Primary Affiliation: (The name of your institution or university, etc.)
