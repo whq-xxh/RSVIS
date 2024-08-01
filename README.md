@@ -16,7 +16,14 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 
 # How to Run the Code 🛠
 ## Environment Installation
-Thanks for your interest, code is being organized and will be online soon!
+`conda create --name RSVIS --file requirements.txt`
+
+
+
+### Others
+
+**Revisiting data and code from long ago isn't a walk in the park 😴 (the paper takes months to publish). Got questions? Just ping me—let's make improvements, no gripes, skip the scolding, please! 🫡 📮: hongqiuwang16@gmail.com (Wechat: whqqq7).**
+
 
 # Dataset 📊
 The datasets have been organized!
