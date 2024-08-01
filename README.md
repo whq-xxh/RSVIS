@@ -21,6 +21,7 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 `conda activate RSVIS`
 
 ### Others
+For object detection components, please refer to [YoloV5](https://github.com/ultralytics/yolov5), [DETR](https://github.com/facebookresearch/detr), [DINO](https://github.com/IDEA-Research/DINO). We also referenced parts of the [MTTR](https://github.com/mttr2021/MTTR) code (an excellent project), and we acknowledge the contribution of the above projects.
 
 **Revisiting data and code from long ago isn't a walk in the park 😴 (the paper takes months to publish). Got questions? Just ping me—let's make improvements, no gripes, skip the scolding, please! 🫡 📮: hongqiuwang16@gmail.com (Wechat: whqqq7).**
 
