@@ -18,7 +18,7 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 ## Environment Installation
 `conda create --name RSVIS --file requirements.txt`
 
-
+`conda activate RSVIS`
 
 ### Others
 
