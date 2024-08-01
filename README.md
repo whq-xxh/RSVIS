@@ -19,6 +19,8 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 Thanks for your interest, code is being organized and will be online soon!
 
 # Dataset 📊
+The datasets have been organized!
+
 Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/11In7HqelWbsJPvIpGljSEOIUpzSHnPwo) [BaiduPan](https://pan.baidu.com/s/1t3FQFfa5minkaUIuOs3i3Q)). We will get back to you within three days, so please don't send them multiple times. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
@@ -26,6 +28,33 @@ Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is ne
     Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
     Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
     How to use: (Only for academic research, not for commercial use or second-development.)
+
+The data set is stored as follows:
+
+```text
+RSVIS/
+└── EndoVis-RS18/ 
+    ├── train/
+    │   ├── JPEGImages/
+    │   │   └── */ (video folders)
+    │   │       └── *.png (frame image files) 
+    │   └── Annotations/
+    │       └── */ (video folders)
+    │           └── *.png (mask annotation files) 
+    ├── valid/
+    │   ├── JPEGImages/
+    │   │   └── */ (video folders)
+    │   │       └── *.png (frame image files) 
+    │   └── Annotations/
+    │       └── */ (video folders)
+    │           └── *.png (mask annotation files) 
+    └── meta_expressions/
+        ├── train/
+        │   └── meta_expressions.json  (text annotations)
+        └── valid/
+            └── meta_expressions.json  (text annotations)
+```
+
 
 # Citation 📖
 
