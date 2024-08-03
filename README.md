@@ -20,6 +20,11 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 
 `conda activate RSVIS`
 
+## Model training
+`python main.py -rm train -c configs/RS17.yaml -ws 3 -bs 5 -gids 1`
+
+-rm means the running model, -ws means window size, -bs means the training batch size per GPU, -gids means the GPU id.
+
 ### Others
 For object detection components, please refer to [YoloV5](https://github.com/ultralytics/yolov5), [DETR](https://github.com/facebookresearch/detr), [DINO](https://github.com/IDEA-Research/DINO). We also referenced parts of the [MTTR](https://github.com/mttr2021/MTTR) code (an excellent project), and we acknowledge the contribution of the above projects.
 
