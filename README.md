@@ -28,6 +28,8 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 ### Others
 For object detection components, please refer to [YoloV5](https://github.com/ultralytics/yolov5), [DETR](https://github.com/facebookresearch/detr), [DINO](https://github.com/IDEA-Research/DINO). We also referenced parts of the [MTTR](https://github.com/mttr2021/MTTR) code (an excellent project), and we acknowledge the contribution of the above projects. Since the code is from a long time ago and we have tried many variations, I uploaded a version first and will sort it out later with more accuracy.
 
+I acknowledge that from my perspective, the work isn't perfect and there's room for improvement. To satisfy the demands of the major revision period, the content of the paper has also become longer and more tedious. However, work is only part of our life and everyone needs to eat, I've done my best with open-source code and data—let's show a little patience so we can all thrive together.
+
 **Revisiting data and code from long ago isn't a walk in the park 😴 (the paper takes months to publish). Got questions? Just ping me—let's make improvements, no gripes, skip the scolding, please! 🫡 📮: hongqiuwang16@gmail.com (Wechat: whqqq7).**
 
 
