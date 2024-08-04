@@ -26,7 +26,7 @@ Fig. 1. Comparison of (a) existing instrument segmentation task and (b) our refe
 -rm means the running model, -ws means window size, -bs means the training batch size per GPU, -gids means the GPU id. For the folders 'pretrained_swin_transformer' (swin_tiny_patch244_window877_kinetics400_1k.pth) and 'roberta-base' (pytorch_model.bin), two pretrained weights need to be placed inside respectively. you can download in [Google Drive](https://drive.google.com/drive/folders/1DsG0sE5yQubrqdyP9vG3HV6ZoDV6eA51).
 
 ### Others
-For object detection components, please refer to [YoloV5](https://github.com/ultralytics/yolov5), [DETR](https://github.com/facebookresearch/detr), [DINO](https://github.com/IDEA-Research/DINO). We also referenced parts of the [MTTR](https://github.com/mttr2021/MTTR) code (an excellent project), and we acknowledge the contribution of the above projects.
+For object detection components, please refer to [YoloV5](https://github.com/ultralytics/yolov5), [DETR](https://github.com/facebookresearch/detr), [DINO](https://github.com/IDEA-Research/DINO). We also referenced parts of the [MTTR](https://github.com/mttr2021/MTTR) code (an excellent project), and we acknowledge the contribution of the above projects. Since the code is from a long time ago and we have tried many variations, I uploaded a version first and will sort it out later with more accuracy.
 
 **Revisiting data and code from long ago isn't a walk in the park 😴 (the paper takes months to publish). Got questions? Just ping me—let's make improvements, no gripes, skip the scolding, please! 🫡 📮: hongqiuwang16@gmail.com (Wechat: whqqq7).**
 
