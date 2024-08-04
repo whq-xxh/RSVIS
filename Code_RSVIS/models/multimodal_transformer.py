@@ -88,7 +88,6 @@ class MultimodalTransformer(nn.Module):
         # Concat the image & text embeddings on the sequence dimension
         obj_w= self.txt_proj_w(obj_w.float())
 
-        #@ GRM
         txt = torch.cat((txt_memory,torch.zeros(16-txt_memory.shape[0],t*b,256).cuda()),dim=0)  #12 1 256
         txt = txt.permute(2,1,0)
         txt = self.lin2(txt) #4 tb 256
