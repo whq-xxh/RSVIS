@@ -69,7 +69,7 @@ RSVIS/
         └── valid/
             └── meta_expressions.json  (text annotations)
 ```
-
+We build our RSVIS dataset based on previous works. We **acknowledge** with gratitude the organizers of the previous two challenge competitions. For their data contributions, please see [EndoVis2017](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/Data/) and [EndoVis2018](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/Data/). If you utilize these data, please remember to cite their respective papers.
 
 # Citation 📖
 
