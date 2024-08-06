@@ -2,7 +2,7 @@
 
 We are excited to announce that our paper was accepted for publication at **IEEE TMI 2024**! 🥳🥳🥳
 
-This repository contains the official implementation of our paper. 
+This repository contains the implementation of our paper. 
 You can access the paper [here](https://ieeexplore.ieee.org/abstract/document/10595513).
 
 # Introduction 📑
